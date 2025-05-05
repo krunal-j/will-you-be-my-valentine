@@ -21,11 +21,11 @@ body {
 
 #question {
     font-family: 'Sacramento', cursive; /* Apply Sacramento font to the question */
-    font-size: 52px; /* Set font size for the question */
+    font-size: 88px; /* Set font size for the question */
 }
 
 #options {
-    margin-top: 20px; /* Add space above the options */
+    margin-top: 88px; /* Add space above the options */
 }
 
 button {
